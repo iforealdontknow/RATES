@@ -1,0 +1,2 @@
+# RATES
+excahnge rate exercise
